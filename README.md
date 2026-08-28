@@ -1,16 +1,47 @@
-# sql-data-analytics-project
+# SQL Data Analytics Project 📊
 
-A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more.
-This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
+A practical SQL data analytics project focused on transforming raw data into meaningful business insights.
 
-## Project Roadmap
+This project demonstrates how SQL can be used to explore data, identify trends, measure performance, segment customers and products, and answer business questions through data.
 
-Part 1: **EDA**
+---
 
-Part 2: **Advance Analytics**
+## 🎯 Project Objectives
 
-<img width="1918" height="820" alt="My roadmap" src="https://github.com/user-attachments/assets/cdae757b-9bee-448c-a573-158ccc541ab0" />
+The main objectives of this project are to:
 
+- Explore and understand the available datasets
+- Perform data quality checks
+- Identify trends, patterns, and anomalies
+- Calculate business metrics and KPIs
+- Analyse performance over time
+- Compare current performance with historical results
+- Segment customers and products
+- Analyse category and product contribution
+- Apply advanced SQL techniques
+- Translate data analysis into meaningful business insights
+
+---
+
+## 📂 Project Structure
+
+```text
+sql-data-analytics-project/
+│
+├── datasets/
+│   └── Source datasets
+│
+├── docs/
+│   └── Project documentation
+│
+├── scripts/
+│   ├── Part 1 - Exploratory Data Analysis
+│   └── Part 2 - Advanced Analytics
+│
+├── LICENSE
+└── README.md
+
+<img width="1918" height="820" alt="My roadmap" src="https://github.com/user-attachments/assets/147e5f66-ef43-4d6f-aaf9-b315072371d2" />
 
 ## License
 
